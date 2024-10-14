@@ -1,16 +1,26 @@
-# pks6
+# Практическая работа №6
+## Рабкин Артур ЭФБО-05-22
 
-A new Flutter project.
+### Отображение главной страницы с добавленными товарами в избранное 
+![image](https://github.com/user-attachments/assets/bbb7e725-e779-4c04-8eb5-441a1c014363)
 
-## Getting Started
+### Товары в разделе избранное
+![image](https://github.com/user-attachments/assets/a054a505-05ef-48e2-83fd-d83b0e8c2f66)
 
-This project is a starting point for a Flutter application.
+### Товары добавленные в корзину, с учетом количества и цены
+![image](https://github.com/user-attachments/assets/daf46a32-33f6-417c-9110-3f80ed6ae1bd)
 
-A few resources to get you started if this is your first Flutter project:
+### Нажатие на кнопку купить 
+![image](https://github.com/user-attachments/assets/1eee9f9f-ace5-457e-a0f8-690ae8a592d5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Удаление товара из корзины
+![image](https://github.com/user-attachments/assets/971aa7f4-7ba6-4c7e-97b1-847c5b57d4e8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Профиль
+![image](https://github.com/user-attachments/assets/77e1ca5b-6728-4bac-b257-62613571ca71)
+
+### Редактирование профиля
+![image](https://github.com/user-attachments/assets/0fb05ec1-a7de-4fd4-ac15-d47524d2410b)
+
+### Сохраненные изменения в профиле
+![image](https://github.com/user-attachments/assets/c2d375f0-8e85-4aff-be10-22e572b5a714)
